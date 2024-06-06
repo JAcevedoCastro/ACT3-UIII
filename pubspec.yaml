@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_core: ^2.3.0
+  cloud_firestore: ^4.1.0
+
+  # Select a image from the phone
 
 dev_dependencies:
   flutter_test:
